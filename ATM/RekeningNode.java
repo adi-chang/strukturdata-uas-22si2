@@ -1,6 +1,6 @@
 package ATM;
 
-public class ListNode {
+public class RekeningNode {
 
    
 
